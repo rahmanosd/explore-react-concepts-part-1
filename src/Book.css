@@ -1,0 +1,12 @@
+/* .book{
+    border: 3px solid rebeccapurple;
+    border-radius: 30px;
+    margin: 20px;
+    padding: 20px;
+} */
+.book{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    border: 2px solid skyblue;
+}
